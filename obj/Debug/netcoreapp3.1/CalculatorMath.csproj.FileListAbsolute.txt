@@ -1,0 +1,4 @@
+/home/z101/Downloads/CoL2020/C_Project/Calculator/obj/Debug/netcoreapp3.1/CalculatorMath.csprojAssemblyReference.cache
+/home/z101/Downloads/CoL2020/C_Project/Calculator/obj/Debug/netcoreapp3.1/CalculatorMath.AssemblyInfoInputs.cache
+/home/z101/Downloads/CoL2020/C_Project/Calculator/obj/Debug/netcoreapp3.1/CalculatorMath.AssemblyInfo.cs
+/home/z101/Downloads/CoL2020/C_Project/Calculator/obj/Debug/netcoreapp3.1/CalculatorMath.csproj.CoreCompileInputs.cache
