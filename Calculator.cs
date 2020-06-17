@@ -1,12 +1,12 @@
 using System;
 namespace Calculator
 {
-  class Program
+  class Calculator
   {
-    static void Main(string[] args)
+    public static void Main1(int num1, int num2)
     {
       // Declare variables and then initialize to zero.
-      int num1 = 0; int num2 = 0;
+      // int num1 = 0; int num2 = 0;
 
       // Display title as the C# console calculator app.
       Console.WriteLine("Console Calculator in C#\r");

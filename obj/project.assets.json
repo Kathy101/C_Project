@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/z101/Downloads/CoL2020/C_Project/Calculator/CalculatorMath.csproj",
-      "projectName": "CalculatorMath",
-      "projectPath": "/home/z101/Downloads/CoL2020/C_Project/Calculator/CalculatorMath.csproj",
+      "projectUniqueName": "/home/z101/Downloads/CoL2020/C_Project/Calculator/Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "/home/z101/Downloads/CoL2020/C_Project/Calculator/Calculator.csproj",
       "packagesPath": "/home/z101/.nuget/packages/",
       "outputPath": "/home/z101/Downloads/CoL2020/C_Project/Calculator/obj/",
       "projectStyle": "PackageReference",

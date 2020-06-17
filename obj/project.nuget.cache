@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "twvO04UK7k2xxWJyw78tHJyMesfJrYjxiely+4F8NWMz7pTCcoIu18qoYA02jgI9+Y8+NDOwGSeE4MdGP3gzMg==",
+  "dgSpecHash": "4pfqvQ/Fx2inD4yeaLI5JzIZBkGWts1LM4dVFLJsWaLJCHnBo/hf5gk5oOa7TEsOsk87vutYdKHGgHoDRLcPew==",
   "success": true,
-  "projectFilePath": "/home/z101/Downloads/CoL2020/C_Project/Calculator/CalculatorMath.csproj",
+  "projectFilePath": "/home/z101/Downloads/CoL2020/C_Project/Calculator/Calculator.csproj",
   "expectedPackageFiles": [
     "/home/z101/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

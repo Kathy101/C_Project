@@ -3,11 +3,11 @@
   {
   class Program
   {
-    static void Main(string[] args)
+    public static void Main()
     {
       int a = 42;
-      int b = 119;
-      Console.WriteLine(c);
+      int b = 116;
+      Console.WriteLine("enter your calculation");
       Console.ReadKey();
     }
   }
