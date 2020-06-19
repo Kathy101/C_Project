@@ -1,9 +1,11 @@
 ﻿  using System;
+  using System.Collections.Generic;
+
   namespace Calculator
   {
   class Program
   {
-    public static void Main()
+    static void Main(string[] arge)
     {
       int a = 42;
       int b = 116;
