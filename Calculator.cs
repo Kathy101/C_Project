@@ -3,10 +3,10 @@ namespace Calculator
 {
   class Calculator
   {
-    public static void Main1(int num1, int num2)
+    public static void Calculator(int num1, int num2)
     {
       // Declare variables and then initialize to zero.
-      // int num1 = 0; int num2 = 0;
+      //  int num1 = 0; int num2 = 0;
 
       // Display title as the C# console calculator app.
       Console.WriteLine("Console Calculator in C#\r");

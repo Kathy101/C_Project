@@ -1,0 +1,13 @@
+/home/z101/Downloads/CoL2020/Test_CPnDA/bin/Debug/netcoreapp3.1/Test_CPnDA
+/home/z101/Downloads/CoL2020/Test_CPnDA/bin/Debug/netcoreapp3.1/Test_CPnDA.deps.json
+/home/z101/Downloads/CoL2020/Test_CPnDA/bin/Debug/netcoreapp3.1/Test_CPnDA.runtimeconfig.json
+/home/z101/Downloads/CoL2020/Test_CPnDA/bin/Debug/netcoreapp3.1/Test_CPnDA.runtimeconfig.dev.json
+/home/z101/Downloads/CoL2020/Test_CPnDA/bin/Debug/netcoreapp3.1/Test_CPnDA.dll
+/home/z101/Downloads/CoL2020/Test_CPnDA/bin/Debug/netcoreapp3.1/Test_CPnDA.pdb
+/home/z101/Downloads/CoL2020/Test_CPnDA/obj/Debug/netcoreapp3.1/Test_CPnDA.csprojAssemblyReference.cache
+/home/z101/Downloads/CoL2020/Test_CPnDA/obj/Debug/netcoreapp3.1/Test_CPnDA.AssemblyInfoInputs.cache
+/home/z101/Downloads/CoL2020/Test_CPnDA/obj/Debug/netcoreapp3.1/Test_CPnDA.AssemblyInfo.cs
+/home/z101/Downloads/CoL2020/Test_CPnDA/obj/Debug/netcoreapp3.1/Test_CPnDA.csproj.CoreCompileInputs.cache
+/home/z101/Downloads/CoL2020/Test_CPnDA/obj/Debug/netcoreapp3.1/Test_CPnDA.dll
+/home/z101/Downloads/CoL2020/Test_CPnDA/obj/Debug/netcoreapp3.1/Test_CPnDA.pdb
+/home/z101/Downloads/CoL2020/Test_CPnDA/obj/Debug/netcoreapp3.1/Test_CPnDA.genruntimeconfig.cache
