@@ -3,4 +3,4 @@ Addition
 Subtraction
 Multipliaction
 Division
-![My Project Logo](https://github.com/Kathy101/C_Project_Calculator/blob/master/img/Logoclipart-library/2020/2020-Graduation-Clip-Art-Geographics-8-L.jpg
+https:2020/2020-Graduation-Clip-Art-Geographics-8-L.jpg
