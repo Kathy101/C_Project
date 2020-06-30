@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/z101/Downloads/CoL2020/C_Project/Calculator/Calculator.csproj": {}
+    "/home/z101/Downloads/CoL2020/C_Project_Calculator/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/home/z101/Downloads/CoL2020/C_Project/Calculator/Calculator.csproj": {
+    "/home/z101/Downloads/CoL2020/C_Project_Calculator/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/z101/Downloads/CoL2020/C_Project/Calculator/Calculator.csproj",
+        "projectUniqueName": "/home/z101/Downloads/CoL2020/C_Project_Calculator/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/home/z101/Downloads/CoL2020/C_Project/Calculator/Calculator.csproj",
+        "projectPath": "/home/z101/Downloads/CoL2020/C_Project_Calculator/Calculator/Calculator.csproj",
         "packagesPath": "/home/z101/.nuget/packages/",
-        "outputPath": "/home/z101/Downloads/CoL2020/C_Project/Calculator/obj/",
+        "outputPath": "/home/z101/Downloads/CoL2020/C_Project_Calculator/Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/z101/.nuget/NuGet/NuGet.Config"
