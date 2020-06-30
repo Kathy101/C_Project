@@ -3,4 +3,3 @@ Addition
 Subtraction
 Multipliaction
 Division
-https:2020/2020-Graduation-Clip-Art-Geographics-8-L.jpg
