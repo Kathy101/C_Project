@@ -3,4 +3,4 @@ Addition
 Subtraction
 Multipliaction
 Division.
-<img src="img/2020-Geographic.jpg"></img>
+<img src="img/2020-Geographic.jpg">
