@@ -3,4 +3,4 @@ Addition
 Subtraction
 Multipliaction
 Division
-
+http://clipart-library.com/2020/2020-Graduation-Clip-Art-Geographics-8-L.jpg
