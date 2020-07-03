@@ -1,10 +1,10 @@
-<img src="img/2020-Geographic.png">
+ # C_Project_Calculator 2020
 
-# C_Project_Calculator. 
+A simple caclulator. Just type the first number and second number for:
+  Addition,
+  Subtraction,
+  Multiplication,
+  Division.
 
-Just type the first number, second number then will show the answer for:
-Addition
-Subtraction
-Multipliaction
-Division.
-
+ <img src="img/2020-Geographics.png">
+ 
