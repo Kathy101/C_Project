@@ -45,13 +45,26 @@ namespace ProjectCalculator
         }
         num2 = Int32.Parse(input);
         
-        
+        // could use a switch statement here
+        if(type_of_calculation == "+")
+        {
+          Console.WriteLine("The Answer is " + Calculator.Add(num1, num2));
+          Console.WriteLine("Hit 'Enter' to restart the calculator ");
+          restart_calculator = Console.ReadLine();
+        }
+        else if(type_of_calculation == "-")
+        {
+          Console.WriteLine("The Answer is " + Calculator.Subtraction(num1, num2));
+          Console.WriteLine("Hit 'Enter' to restart the calculator ");
+          restart_calculator = Console.ReadLine();
+        }
+
         {
           Console.WriteLine("unknown Error");
         }
       }	while(restart_calculator == "");
 
         System.Environment.Exit(0);
+      }
     }
   }
-}
