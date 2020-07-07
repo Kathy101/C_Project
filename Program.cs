@@ -13,7 +13,7 @@ namespace ProjectCalculator
       int num1;
       int num2;
       
-      do // run the program a first time and then loop it depending of the user input
+      do // run the program and loop it depending of the user input
       {
         Console.WriteLine("What type of calculation do you want to perform? (+, -, *, /)");
         string type_of_calculation = Console.ReadLine();
@@ -45,7 +45,7 @@ namespace ProjectCalculator
         }
         num2 = Int32.Parse(input);
         
-        // could use a switch statement here
+        // could use a diferrent type of operators
         if(type_of_calculation == "+")
         {
           Console.WriteLine("The Answer is " + Calculator.Add(num1, num2));
@@ -58,7 +58,21 @@ namespace ProjectCalculator
           Console.WriteLine("Hit 'Enter' to restart the calculator ");
           restart_calculator = Console.ReadLine();
         }
-
+        else if(type_of_calculation == "*")
+        {
+          Console.WriteLine("The Answer is " + Calculator.Multiplication(num1, num2));
+          Console.WriteLine("Hit 'Enter' to restart the calculator ");
+          restart_calculator = Console.ReadLine();
+        }
+        else if(type_of_calculation == "/")
+        {
+          if (num2 == 0) Console.WriteLine("Cannot divided by zero");
+          else {
+          Console.WriteLine("The Answer is " + Calculator.Division(num1, num2)); };
+          Console.WriteLine("Hit 'Enter' to restart the calculator ");
+          restart_calculator = Console.ReadLine();
+        }
+        else
         {
           Console.WriteLine("unknown Error");
         }
